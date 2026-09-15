@@ -142,16 +142,16 @@ project/
 └── example/
 
 # Сравнение УЗИ, маски и 3D
-!(output/comparison.png)
+![](output/comparison.png)
 
 # Начальное фото УЗИ
-!(data/images/003_HC.png)
+![](data/images/003_HC.png)
 
 # Пример 3D модели эллипса
-!(example/003HC_el.png)
+![](example/003HC_el.png)
 
 # Пример 3D модели 003HC
-!(example/003HC_full.png)
+![](example/003HC_full.png)
 ---
 
 ## Как воспроизвести
