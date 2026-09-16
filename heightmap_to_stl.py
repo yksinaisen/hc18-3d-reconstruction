@@ -6,7 +6,7 @@ from scipy.ndimage import gaussian_filter
 import os
 
 # ===== НАСТРОЙКИ =====
-BASE = "414_HC"
+BASE = "003_HC"
 IMG_PATH = f"data/images/{BASE}.png"
 MASK_PATH = f"data/masks/{BASE}_mask.png"
 CSV_PATH = "data/training_set_pixel_size_and_HC.csv"
